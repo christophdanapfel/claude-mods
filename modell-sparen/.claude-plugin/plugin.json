@@ -1,0 +1,1 @@
+{ "name": "modell-sparen", "version": "0.1.0", "description": "Schickt Übersetzen, Zusammenfassen und Umformulieren an Haiku, um das Limit zu schonen", "types": "./types/index.d.ts" }

@@ -1,0 +1,1 @@
+{ "name": "chat-team", "version": "0.1.0", "description": "Gibt jedem Chat eine Rolle: Chef, Recherche oder Entwurf", "types": "./types/index.d.ts" }

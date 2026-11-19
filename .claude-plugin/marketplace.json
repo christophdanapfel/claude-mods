@@ -1,0 +1,9 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "claude-mods" },
+  "plugins": [
+    { "name": "modell-sparen", "source": "./modell-sparen", "description": "Schickt Übersetzen, Zusammenfassen und Umformulieren an Haiku, um das Limit zu schonen" },
+    { "name": "dashboard", "source": "./dashboard", "description": "Dashboard neben dem Chat: To-dos und wem du noch antworten musst" },
+    { "name": "chat-team", "source": "./chat-team", "description": "Gibt jedem Chat eine Rolle: Chef, Recherche oder Entwurf" }
+  ]
+}
